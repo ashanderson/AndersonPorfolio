@@ -2,7 +2,7 @@
 Telling Stories With Data Class Portfolio
 
 # About Me
-I am a second-year Master of Arts Management student with a concentration on cultural heritage, museums, and development. My undergraduate degree is in Art History, but in the eight or so years since graduation, I have only worked in one gallery setting and a number of for-profit businesses. I came to this program to learn more about the operations and management of arts organizaitons so that I can return to the visual arts world equipped with the necessary skill-set to advance my career. 
+I am a second-year Master of Arts Management student at Carnegie Mellon University. My concentration is on visual arts, cultural heritage, and development. My undergraduate degree is in Art History, but in the eight or so years since graduation, I have only worked in one gallery setting and a number of for-profit businesses. I came to this program to learn more about the operations and management of arts organizaitons so that I can return to the visual arts world equipped with the necessary skill-set to advance my career. 
 
 # What I Hope to Learn
 In Telling Stories with Data, I hope to learn a new set of tools that will help me convey important information to an audience that may not need to know, or want to know all of the nuances, but have an important role in decision making for the organizaiton (i.e. boards/directors/donors). I alos hope to learn how to use open-source data sets that may not seem directly related to the subject, but can be useful in enhancing the message that I am trying to convey. 
