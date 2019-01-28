@@ -10,3 +10,6 @@ In Telling Stories with Data, I hope to learn a new set of tools that will help 
 I am also looking forward to learning more about how audiences respond to different types of data visualization and what options and colors are best for which types of data. When you have to create buy-in from a deciding body it is imperitive that your message comes across simply and succinctly. My hope is that this class will teach me how to do just that. 
 
 # Portfolio
+##USDA Blog Post Visualization
+<iframe id="datawrapper-chart-2w0UO" src="//datawrapper.dwcdn.net/2w0UO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="197"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["2w0UO"]={},window.datawrapper["2w0UO"].iframe=document.getElementById("datawrapper-chart-2w0UO"),window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("2w0UO"==b)window.datawrapper["2w0UO"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+"Diverse Family Farms Are Important to U.S. Agriculture|USDA". Accessed January 27, 2019. https://www.usda.gov/media/blog/2017/07/20/diverse-family-farms-are-important-us-agriculture
