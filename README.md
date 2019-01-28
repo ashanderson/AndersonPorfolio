@@ -25,3 +25,8 @@ I am also looking forward to learning more about how audiences respond to differ
 <https://sfbos.org/sites/default/files/BLA_Report_Street_Cleaning_Cost_Survey_062518.pdf>
 
 This was an exercise in Telling Stories with Data to replicate a column graph from a report. I first had to use Tabula to retrieve the data to be used from a PDF of the report. Next, using Google Sheets, I created the replica column chart organized by per capita spending, shown above.
+
+## Assignments
+### Government Debt-to-GDP Ratio, by Country
+
+<iframe src="https://data.oecd.org/chart/5spC" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5spC" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
