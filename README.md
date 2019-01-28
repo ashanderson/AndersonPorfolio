@@ -23,4 +23,4 @@ I am also looking forward to learning more about how audiences respond to differ
 "Budget and Legislative Report|Street Cleaning Cost Survey|San Francsisco". Accessed January 27, 2019. 
 [https://sfbos.org/sites/default/files/BLA_Report_Street_Cleaning_Cost_Survey_062518.pdf]
 
-This was an exercise in Telling Stories with Data to replicate a column graph from a report. I first had to use Tabula to retrieve the data to be used from a PDF of the report. Next, using Google Sheets, I created the replica column chart organized by per capita spending, shown above. To see the original report and chart, 
+This was an exercise in Telling Stories with Data to replicate a column graph from a report. I first had to use Tabula to retrieve the data to be used from a PDF of the report. Next, using Google Sheets, I created the replica column chart organized by per capita spending, shown above.
