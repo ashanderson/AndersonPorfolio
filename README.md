@@ -10,5 +10,6 @@ In Telling Stories with Data, I hope to learn a new set of tools that will help 
 I am also looking forward to learning more about how audiences respond to different types of data visualization and what options and colors are best for which types of data. When you have to create buy-in from a deciding body it is imperitive that your message comes across simply and succinctly. My hope is that this class will teach me how to do just that. 
 
 # Portfolio
-
+## USDA Blog Visualization
 <iframe src="//datawrapper.dwcdn.net/2w0UO/1/" scrolling="no" frameborder="0" width="600" height="197"></iframe>
+"Diverse Family Farms Are Important to U.S. Agriculture|USDA. Accessed January 27, 2019. https://www.usda.gov/media/blog/2017/07/20/diverse-family-farms-are-important-us-agriculture
