@@ -56,7 +56,7 @@ I then sketched a couple of different ways I would approach my visualization.
 ![Sketch 1 of Small, Medium, and Large Vibrant Arts Communities](/IMG_7551.jpg	
 
 
-![Sketch 2 of Small, Medium, and Large Vibrant Arts Communities](/)
+![Sketch 2 of Small, Medium, and Large Vibrant Arts Communities](/IMG_7552.jpg
 
 I received more positive feedback for the first sketch than the second sketch. People were confused by the red circles and the numbers on sketch 2, whereas with sketch 1 people could see that it was arranged by region and population and the the number was the ranking of each item in the graph. This made me realize that I should avoid using circles, if at all possible. 
 
