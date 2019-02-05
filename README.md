@@ -53,9 +53,10 @@ For this assignment I chose the [NCAR Arts Vibrancy Index III Hotbeds of America
 The first step in this process was critiquing the original NCAR map and tables. Overall the original can be pretty easily understood at first glance by individuals who work in the arts and culture sector. However, one must read the additional informaiton in the tables to fully understand the meaning of the circles across the map. Next, I used Tabula to scrape the data from the three tables in the report. I then added a fifth column for Micro- and Metropolitan Statistical Areas, or MSA, sizes. The size is determined by populaiton and urban core size. The purpose for this was to see if I could create a more perceptible difference between sizes than the original circles on the map. 
 
 I then sketched a couple of different ways I would approach my visualization. 
-![Sketch 1 of Small, Medium, and Large Vibrant Arts Communities](/IMG_7551.jpg)
+![Sketch 1 of Small, Medium, and Large Vibrant Arts Communities](/IMG_7551.jpg	
 
-![Sketch 2 of Small, Medium, and Large Vibrant Arts Communities](/IMG_7552.jpg)
+
+![Sketch 2 of Small, Medium, and Large Vibrant Arts Communities](/)
 
 I received more positive feedback for the first sketch than the second sketch. People were confused by the red circles and the numbers on sketch 2, whereas with sketch 1 people could see that it was arranged by region and population and the the number was the ranking of each item in the graph. This made me realize that I should avoid using circles, if at all possible. 
 
