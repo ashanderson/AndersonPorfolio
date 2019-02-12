@@ -2,10 +2,12 @@
 ## Part I
 ### Outline
 This project will create a visualization of all Notices of Intent to Repatriate from the Native American Graves Protection and Repatriation Act by state from 1995 through 2019.  This data will then be compared to the data of all federally recognized tribes in the United States and draw conclusions of the number of repatriation claims by tribe. The goal of this project is to have the audience understand trends in repatriation over the past 25 years and come away with a sense of advocacy for the cultural ethics and policy surrounding these issues. 
-This goal will be accomplished through this story arc:
-Setup - The destruction and 
-Conflict - 
-Resolution - Repatriation is a step toward creating a new narrative that underscores a shared cultural heritage
+#### This goal will be accomplished through this story arc:
+Setup - Colonialization in the United States has had the effect of lost land, lost lives, and lost cultural heritage of the American Indian tribes.
+
+Conflict - Musuems hold art and artifacts in their collections in public trust, but these artifacts were originally taken or excavated during the expansion of the U.S. and must be returned to their rightful owners. 
+
+Resolution - Repatriation of art and artifacts would write a new narrative of a shared cultural history. 
 
 
 ### Data
