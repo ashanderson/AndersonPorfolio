@@ -22,6 +22,7 @@ I will have to use a variety of programs to create my visualization. First, I wi
 ## Part II
 ### Sketches
 
+![Sketch of Zoom-in on Massachusetts](Massachusetts.jpg)
 ![Sketch of Graph 3](AlluvialChart.jpg)
 
 
