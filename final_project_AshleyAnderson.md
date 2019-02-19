@@ -18,3 +18,51 @@ Resolution - Repatriation of art and artifacts would write a new narrative of a 
 
 ### Method and Medium
 I will have to use a variety of programs to create my visualization. First, I will need to use OpenRefine to clean the two datasets and possibly add attributes to reflect what I want to show. Second, I will be using Infogram to build the wireframing and storyboards, and ultimately using Shorthand or Storymaps to present my project. My goal is to create a time-lapse map of repatriations over the past 25 years as well as a supporting graph to show to which tribes are the majority of repatriations over the 25 year period. 
+
+## Part II
+### Sketches
+
+### User Research
+The target audience I hope to reach with my story are museum directors, archivists, and registrars, and advocates for the arts and cultural heritage. 
+
+In identifying who to approach with my sketches I chose 
+1) someone who spends a good portion of their day looking at performance statistics and visualizations of those data
+2) someone who has a background in good design principles
+3) someone who may or may not be familiar with cultural heritage and the Repatriation Act. 
+
+The script that I followed for each person:
+1) What is your first impression of this?
+2) What do you think it is trying to tell you?
+3) Who do you think would find this information useful?
+4) Is there anything that is difficult to read or understand?
+5) What would you like to know or see that is not shown here?
+6) After seeing this, are you interested in learning more about the subject?
+
+Responses from interviewee number 1
+1) This is a color coded map but the orange and pink are too similar so it is hard to differentiate between the two. The dots appear to be concentrated to coastal areas. 
+2) I think it is trying to tell me how many people repatriated over the past 25 years. 
+3) Someone who works closely with Native American communities. 
+4) The colors are difficult and I don't know what NAGPRA means. 
+5) I would like to know what NAGPRA means and what the legend means. Is it occurrances?
+6) Yes, but only because I don't know what is going on in this map. Also, why does this chart exist? I would like to know more about repatriation. 
+
+Responses from interviewee number 2
+1) I'm not totally sure what is happening in America. Something is happening, but I don't know what. 
+2) The most common category is 5 - 10
+3) Anyone with a general interest in NAGPRA
+4) I'm unsure of what the numbers mean and there is a lot of white space. 
+5) What is NAGPRA? What do the numbers mean? Why are they different colors? What is the signifcance of the locations?
+6) No.
+
+Responses from interviewee number 3
+1) I'm not sure if the dots are museums or the places to which the items are being returned.
+2) No Response
+3) Who is this for? People who are interested in cultural heritage, maybe other museums. 
+4) The dots are easy to understand, but maybe more context with the legend. 
+5) I'd maybe like to see a type of artifact and be more clear about what NAGPRA is.
+6) Yes. 
+
+### Changes Implemented
+After finding out that no one I intereviewed knew what NAGPRA stood for I paid more attention to my title and subtitle. I also decided that this would be best represented as a heat map in gradient colors rather than dots scattered across the map for locations of the musuems. Seeing as my focus is not on all of the actual locations, I decided it would be best to try and make a visual representation of the areas with the highest number of Notices of Intent to Repatriate. This would make it easier to understand the purpose and easier to pinpoint the museum of interest, the Peabody Musuem of Archaeology and Ethnology at Harvard University. 
+
+### Wireframes and Digital Outline
