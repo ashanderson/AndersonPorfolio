@@ -22,6 +22,9 @@ I will have to use a variety of programs to create my visualization. First, I wi
 ## Part II
 ### Sketches
 
+![Sketch of Graph 3](AlluvialChart.jpg)
+
+
 ### User Research
 The target audience I hope to reach with my story are museum directors, archivists, and registrars, and advocates for the arts and cultural heritage. 
 
