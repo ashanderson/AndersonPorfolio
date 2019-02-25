@@ -74,6 +74,7 @@ After finding out that no one I intereviewed knew what NAGPRA stood for I paid m
 
 ### Wireframes and Digital Outline
 <div class="infogram-embed" data-id="3864e3d9-d9c7-4993-a0e2-8dc195799b97" data-type="interactive" data-title="United States Heatmap"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/3864e3d9-d9c7-4993-a0e2-8dc195799b97" style="color:#989898!important;text-decoration:none!important;" target="_blank">United States Heatmap</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
 Data Source: 
 Kristen| NAGPRA Notices of Intent to Repatriate 1995 - 2016| [Tableau Public](https://public.tableau.com/profile/kristen.iemma#!/vizhome/NAGPRAVisualizations/IntenttoRepatriateFilings1995-2016), December 12, 2016. Accessed February 11, 2019. 
 
