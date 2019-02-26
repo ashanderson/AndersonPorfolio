@@ -13,6 +13,6 @@ I am also looking forward to learning more about how audiences respond to differ
 ## ![Tutorials](tutorials.md)
 
 
-## Assignments
+## ![Assignments](Assignments.md)
 
 # [Final Project](final_project_AshleyAnderson.md)
