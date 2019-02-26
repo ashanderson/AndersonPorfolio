@@ -80,6 +80,9 @@ Kristen| NAGPRA Notices of Intent to Repatriate 1995 - 2016| [Tableau Public](ht
 
 ## Part III
 ### Final Data Story
+
+[A Cultural Artifact's Journey](https://preview.shorthand.com/1a5QMhIZlglEawTJ)
+
 The intended audience for my story, from the beginning, has been advocates of the arts and cultural heritage, museum directors. Through more research I have also included advocates for American Indians. For my final product, I created a timeline in Infogram that illustrates the journey of a particular item from the Tlingit tribe with a very interesting path. I had wanted to include images of artifacts to create a more tangible connection to the audience and that is what led me to this fascinating story. I showed the Infogram to two people for feedback on clarity and made adjustments to my titles and subtitles and provided more context and a clearer call to action. The call to action is to highlight why it is important to build better relationships between musuems and American Indian tribes, which I feel that the story of the Totem Pole highlights. 
 
 Some of the additional research that I had to conduct to make the story more impactful was census data from 1930, history on the Tlingit tribe, and reference multiple articles on the return of the Totem Pole. 
@@ -88,6 +91,6 @@ Originally, the story I thought I would be telling was about the rate at which N
 
 Other design decisions I had to make along the way were how I was going to present the story of the Totem Pole and how my NAGPRA map fit into the presentation. Ultimately, I decided that the map, which I thought would be the focal point, became a supporting character for further research from my audience. To enhance that I included links to the NAGPRA database so if an adminstrative staffer would be curious as to whether or not their institution has filed any Notices, they can begin their search here. 
 
-[A Cultural Artifact's Journey](https://preview.shorthand.com/1a5QMhIZlglEawTJ)
+
 
 
